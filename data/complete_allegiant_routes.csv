@@ -1,0 +1,618 @@
+Departure,Destination,Departure_IATA,Destination_IATA
+Austin,"Asheville, NC",AUS,AVL
+Austin,"Cincinnati, OH",AUS,CVG
+Austin,"Des Moines, IA",AUS,DSM
+Austin,"Grand Rapids, MI",AUS,GRR
+Austin,"Indianapolis, IN",AUS,IND
+Austin,"Knoxville, TN",AUS,TYS
+Austin,"Las Vegas, NV",AUS,LAS
+Austin,"Pittsburgh, PA",AUS,PIT
+Austin,"Provo, UT",AUS,PVU
+Austin,"Sanford / Orlando, FL",AUS,SFB
+Austin,"Sarasota / Bradenton, FL",AUS,SRQ
+Austin,Washington D.C. / Dulles,AUS,IAD
+Boston,"Asheville, NC",BOS,AVL
+Boston,"Des Moines, IA",BOS,DSM
+Boston,"Destin / Fort Walton Beach, FL",BOS,VPS
+Boston,"Grand Rapids, MI",BOS,GRR
+Boston,"Indianapolis, IN",BOS,IND
+Boston,"Knoxville, TN",BOS,TYS
+Boston,"Norfolk, VA",BOS,ORF
+Boston,"Sarasota / Bradenton, FL",BOS,SRQ
+Boston,"Savannah, GA / Hilton Head, SC",BOS,SAV
+Charleston,"Cincinnati, OH",CHS,CVG
+Charleston,"Columbus (Rickenbacker), OH",CHS,LCK
+Charleston,"Indianapolis, IN",CHS,IND
+Charleston,"Louisville, KY",CHS,SDF
+Chicago (Midway),"Asheville, NC",MDW,AVL
+Chicago (Midway),"Destin / Fort Walton Beach, FL",MDW,VPS
+Chicago (Midway),"Fort Myers / Punta Gorda, FL",MDW,PGD
+Chicago (Midway),"Knoxville, TN",MDW,TYS
+Chicago (Midway),"Provo, UT",MDW,PVU
+Chicago (Midway),"Savannah, GA / Hilton Head, SC",MDW,SAV
+"Denver, CO","Allentown (Lehigh Valley), PA",DEN,ABE
+"Denver, CO","Appleton / Green Bay, WI",DEN,ATW
+"Denver, CO","Asheville, NC",DEN,AVL
+"Denver, CO","Cincinnati, OH",DEN,CVG
+"Denver, CO","Idaho Falls, ID",DEN,IDA
+"Denver, CO","Knoxville, TN",DEN,TYS
+"Denver, CO","Peoria, IL",DEN,PIA
+"Denver, CO","Stockton, CA",DEN,SCK
+Destin/Fort Walton,"Akron-Canton, OH",VPS,CAK
+Destin/Fort Walton,"Asheville, NC",VPS,AVL
+Destin/Fort Walton,"Belleville, IL / St. Louis, MO",VPS,BLV
+Destin/Fort Walton,"Boston (Logan), MA",VPS,BOS
+Destin/Fort Walton,"Chicago (Midway), IL",VPS,MDW
+Destin/Fort Walton,"Cincinnati, OH",VPS,CVG
+Destin/Fort Walton,"Clarksburg / Morgantown, WV",VPS,CKB
+Destin/Fort Walton,"Columbus (Rickenbacker), OH",VPS,LCK
+Destin/Fort Walton,"Des Moines, IA",VPS,DSM
+Destin/Fort Walton,"Evansville, IN",VPS,EVV
+Destin/Fort Walton,"Flint, MI",VPS,FNT
+Destin/Fort Walton,"Grand Rapids, MI",VPS,GRR
+Destin/Fort Walton,"Huntington (Tri-State), WV",VPS,HTS
+Destin/Fort Walton,"Indianapolis, IN",VPS,IND
+Destin/Fort Walton,"Kansas City, MO",VPS,MCI
+Destin/Fort Walton,"Knoxville, TN",VPS,TYS
+Destin/Fort Walton,"Las Vegas, NV",VPS,LAS
+Destin/Fort Walton,"Lexington, KY",VPS,LEX
+Destin/Fort Walton,"Little Rock, AR",VPS,LIT
+Destin/Fort Walton,"Louisville, KY",VPS,SDF
+Destin/Fort Walton,"Memphis, TN",VPS,MEM
+Destin/Fort Walton,"Minneapolis-St. Paul, MN",VPS,MSP
+Destin/Fort Walton,"New York City, NY / Newark, NJ",VPS,EWR
+Destin/Fort Walton,"Northwest Arkansas, AR",VPS,XNA
+Destin/Fort Walton,"Oklahoma City, OK",VPS,OKC
+Destin/Fort Walton,"Omaha, NE",VPS,OMA
+Destin/Fort Walton,"Peoria, IL",VPS,PIA
+Destin/Fort Walton,"Pittsburgh, PA",VPS,PIT
+Destin/Fort Walton,"Shreveport, LA",VPS,SHV
+Destin/Fort Walton,"Springfield / Branson, MO",VPS,SGF
+Destin/Fort Walton,"Tulsa, OK",VPS,TUL
+Destin/Fort Walton,Washington D.C. / Dulles,VPS,IAD
+Destin/Fort Walton,"Wichita, KS",VPS,ICT
+Destin/Fort Walton,"Bloomington, IL",VPS,BMI
+Destin/Fort Walton,"Nashville, TN",VPS,BNA
+Destin/Fort Walton,"Washington D.C. / Baltimore, MD",VPS,BWI
+Destin/Fort Walton,"Dayton, OH",VPS,DAY
+Destin/Fort Walton,"Rockford, IL",VPS,RFD
+Destin/Fort Walton,"Concord / Charlotte, NC",VPS,USA
+Fort Lauderdale,"Akron-Canton, OH",FLL,CAK
+Fort Lauderdale,"Allentown (Lehigh Valley), PA",FLL,ABE
+Fort Lauderdale,"Appleton / Green Bay, WI",FLL,ATW
+Fort Lauderdale,"Asheville, NC",FLL,AVL
+Fort Lauderdale,"Bangor, ME",FLL,BGR
+Fort Lauderdale,"Belleville, IL / St. Louis, MO",FLL,BLV
+Fort Lauderdale,"Cedar Rapids, IA",FLL,CID
+Fort Lauderdale,"Cincinnati, OH",FLL,CVG
+Fort Lauderdale,"Columbia, SC",FLL,CAE
+Fort Lauderdale,"Columbus (Rickenbacker), OH",FLL,LCK
+Fort Lauderdale,"Concord / Charlotte, NC",FLL,USA
+Fort Lauderdale,"Des Moines, IA",FLL,DSM
+Fort Lauderdale,"Flint, MI",FLL,FNT
+Fort Lauderdale,"Grand Rapids, MI",FLL,GRR
+Fort Lauderdale,"Greenville / Spartanburg, SC",FLL,GSP
+Fort Lauderdale,"Harrisburg, PA",FLL,MDT
+Fort Lauderdale,"Huntington (Tri-State), WV",FLL,HTS
+Fort Lauderdale,"Indianapolis, IN",FLL,IND
+Fort Lauderdale,"Knoxville, TN",FLL,TYS
+Fort Lauderdale,"Lexington, KY",FLL,LEX
+Fort Lauderdale,"Louisville, KY",FLL,SDF
+Fort Lauderdale,"Memphis, TN",FLL,MEM
+Fort Lauderdale,"Nashville, TN",FLL,BNA
+Fort Lauderdale,"Newburgh (Stewart), NY",FLL,SWF
+Fort Lauderdale,"Norfolk, VA",FLL,ORF
+Fort Lauderdale,"Northwest Arkansas, AR",FLL,XNA
+Fort Lauderdale,"Peoria, IL",FLL,PIA
+Fort Lauderdale,"Plattsburgh, NY / Montreal, QC",FLL,PBG
+Fort Lauderdale,"Savannah, GA / Hilton Head, SC",FLL,SAV
+Fort Lauderdale,"Sioux Falls, SD",FLL,FSD
+Fort Lauderdale,"Syracuse, NY",FLL,SYR
+Fort Lauderdale,"Traverse City, MI",FLL,TVC
+Fort Myers/Punta Gorda,"Akron-Canton, OH",RSW,CAK
+Fort Myers/Punta Gorda,"Albany, NY",RSW,ALB
+Fort Myers/Punta Gorda,"Allentown (Lehigh Valley), PA",RSW,ABE
+Fort Myers/Punta Gorda,"Appleton / Green Bay, WI",RSW,ATW
+Fort Myers/Punta Gorda,"Asheville, NC",RSW,AVL
+Fort Myers/Punta Gorda,"Bangor, ME",RSW,BGR
+Fort Myers/Punta Gorda,"Belleville, IL / St. Louis, MO",RSW,BLV
+Fort Myers/Punta Gorda,"Cedar Rapids, IA",RSW,CID
+Fort Myers/Punta Gorda,"Chattanooga, TN",RSW,CHA
+Fort Myers/Punta Gorda,"Chicago (Midway), IL",RSW,MDW
+Fort Myers/Punta Gorda,"Cincinnati, OH",RSW,CVG
+Fort Myers/Punta Gorda,"Columbus (Rickenbacker), OH",RSW,LCK
+Fort Myers/Punta Gorda,"Concord / Charlotte, NC",RSW,USA
+Fort Myers/Punta Gorda,"Dayton, OH",RSW,DAY
+Fort Myers/Punta Gorda,"Des Moines, IA",RSW,DSM
+Fort Myers/Punta Gorda,"Elmira / Corning, NY",RSW,ELM
+Fort Myers/Punta Gorda,"Flint, MI",RSW,FNT
+Fort Myers/Punta Gorda,"Fort Wayne, IN",RSW,FWA
+Fort Myers/Punta Gorda,"Grand Rapids, MI",RSW,GRR
+Fort Myers/Punta Gorda,"Harrisburg, PA",RSW,MDT
+Fort Myers/Punta Gorda,"Huntington (Tri-State), WV",RSW,HTS
+Fort Myers/Punta Gorda,"Indianapolis, IN",RSW,IND
+Fort Myers/Punta Gorda,"Kansas City, MO",RSW,MCI
+Fort Myers/Punta Gorda,"Knoxville, TN",RSW,TYS
+Fort Myers/Punta Gorda,"Lexington, KY",RSW,LEX
+Fort Myers/Punta Gorda,"Louisville, KY",RSW,SDF
+Fort Myers/Punta Gorda,"Minneapolis-St. Paul, MN",RSW,MSP
+Fort Myers/Punta Gorda,"Moline (Quad Cities), IL",RSW,MLI
+Fort Myers/Punta Gorda,"Nashville, TN",RSW,BNA
+Fort Myers/Punta Gorda,"Newburgh (Stewart), NY",RSW,SWF
+Fort Myers/Punta Gorda,"Niagara Falls / Buffalo, NY",RSW,IAG
+Fort Myers/Punta Gorda,"Omaha, NE",RSW,OMA
+Fort Myers/Punta Gorda,"Peoria, IL",RSW,PIA
+Fort Myers/Punta Gorda,"Pittsburgh, PA",RSW,PIT
+Fort Myers/Punta Gorda,"Plattsburgh, NY / Montreal, QC",RSW,PBG
+Fort Myers/Punta Gorda,"Portsmouth, NH",RSW,PSM
+Fort Myers/Punta Gorda,"Providence, RI",RSW,PVD
+Fort Myers/Punta Gorda,"Richmond, VA",RSW,RIC
+Fort Myers/Punta Gorda,"Rochester, NY",RSW,ROC
+Fort Myers/Punta Gorda,"Rockford, IL",RSW,RFD
+Fort Myers/Punta Gorda,"Savannah, GA / Hilton Head, SC",RSW,SAV
+Fort Myers/Punta Gorda,"Sioux Falls, SD",RSW,FSD
+Fort Myers/Punta Gorda,"South Bend, IN",RSW,SBN
+Fort Myers/Punta Gorda,"Springfield / Branson, MO",RSW,SGF
+Fort Myers/Punta Gorda,"Springfield, IL",RSW,SGF
+Fort Myers/Punta Gorda,"St. Cloud, MN",RSW,STC
+Fort Myers/Punta Gorda,"Syracuse, NY",RSW,SYR
+Fort Myers/Punta Gorda,"Toledo, OH / Detroit, MI",RSW,TOL
+Fort Myers/Punta Gorda,"Traverse City, MI",RSW,TVC
+Fort Myers/Punta Gorda,Washington D.C. / Dulles,GUF,IAD
+Gulf Shores/Orange Beach ,"Belleville, IL / St. Louis, MO",GUF,BLV
+Gulf Shores/Orange Beach ,"Cincinnati, OH",GUF,CVG
+Gulf Shores/Orange Beach ,"Houston (Hobby), TX",GUF,HOU
+Gulf Shores/Orange Beach ,"Kansas City, MO",GUF,MCI
+Gulf Shores/Orange Beach ,"Knoxville, TN",GUF,TYS
+Gulf Shores/Orange Beach ,"Northwest Arkansas, AR",GUF,XNA
+Houstin Hobby,"Asheville, NC",HOU,AVL
+Houstin Hobby,"Des Moines, IA",HOU,DSM
+Houstin Hobby,"Gulf Shores / Orange Beach, AL",HOU,GUF
+Houstin Hobby,"Knoxville, TN",HOU,TYS
+Houstin Hobby,"Provo, UT",HOU,PVU
+Jacksonville ,"Akron-Canton, OH",JAX,CAK
+Jacksonville ,"Belleville, IL / St. Louis, MO",JAX,BLV
+Jacksonville ,"Cincinnati, OH",JAX,CVG
+Jacksonville ,"Des Moines, IA",JAX,DSM
+Jacksonville ,"Flint, MI",JAX,FNT
+Jacksonville ,"Grand Rapids, MI",JAX,GRR
+Jacksonville ,"Harrisburg, PA",JAX,MDT
+Jacksonville ,"Indianapolis, IN",JAX,IND
+Jacksonville ,"Knoxville, TN",JAX,TYS
+Jacksonville ,"Nashville, TN",JAX,BNA
+Jacksonville ,"Norfolk, VA",JAX,ORF
+Jacksonville ,"Pittsburgh, PA",JAX,PIT
+Jacksonville ,Washington D.C. / Dulles,JAX,IAD
+Key West,"Asheville, NC",EYW,AVL
+Key West,"Cincinnati, OH",EYW,CVG
+Key West,"Indianapolis, IN",EYW,IND
+Key West,"Pittsburgh, PA",EYW,PIT
+Key West,"Sanford / Orlando, FL",EYW,SFB
+Key West,"Tampa / St. Pete, FL",EYW,PIE
+Las Vegas,"Appleton / Green Bay, WI",LAS,ATW
+Las Vegas,"Asheville, NC",LAS,AVL
+Las Vegas,"Austin, TX",LAS,AUS
+Las Vegas,"Belleville, IL / St. Louis, MO",LAS,BLV
+Las Vegas,"Bellingham, WA / Vancouver, BC",LAS,BLI
+Las Vegas,"Billings, MT",LAS,BIL
+Las Vegas,"Bismarck, ND",LAS,BIS
+Las Vegas,"Boise, ID",LAS,BOI
+Las Vegas,"Bozeman, MT",LAS,BZN
+Las Vegas,"Cedar Rapids, IA",LAS,CID
+Las Vegas,"Chattanooga, TN",LAS,CHA
+Las Vegas,"Cincinnati, OH",LAS,CVG
+Las Vegas,"Des Moines, IA",LAS,DSM
+Las Vegas,"Destin / Fort Walton Beach, FL",LAS,VPS
+Las Vegas,"El Paso, TX",LAS,ELP
+Las Vegas,"Eugene, OR",LAS,EUG
+Las Vegas,"Fargo, ND",LAS,FAR
+Las Vegas,"Flint, MI",LAS,FNT
+Las Vegas,"Fort Wayne, IN",LAS,FWA
+Las Vegas,"Fresno, CA",LAS,FAT
+Las Vegas,"Grand Forks, ND",LAS,GFK
+Las Vegas,"Grand Island, NE",LAS,GRI
+Las Vegas,"Grand Junction, CO",LAS,GJT
+Las Vegas,"Grand Rapids, MI",LAS,GRR
+Las Vegas,"Great Falls, MT",LAS,GTF
+Las Vegas,"Idaho Falls, ID",LAS,IDA
+Las Vegas,"Indianapolis, IN",LAS,IND
+Las Vegas,"Kalispell, MT",LAS,FCA
+Las Vegas,"Knoxville, TN",LAS,TYS
+Las Vegas,"Laredo, TX",LAS,LRD
+Las Vegas,"Lexington, KY",LAS,LEX
+Las Vegas,"McAllen, TX / Monterrey, MX",LAS,MFE
+Las Vegas,"Medford, OR",LAS,MFR
+Las Vegas,"Memphis, TN",LAS,MEM
+Las Vegas,"Minot, ND",LAS,MOT
+Las Vegas,"Missoula, MT",LAS,MSO
+Las Vegas,"Moline (Quad Cities), IL",LAS,MLI
+Las Vegas,"Monterey, CA",LAS,MRY
+Las Vegas,"Northwest Arkansas, AR",LAS,XNA
+Las Vegas,"Oklahoma City, OK",LAS,OKC
+Las Vegas,"Omaha, NE",LAS,OMA
+Las Vegas,"Pasco (Tri-Cities), WA",LAS,PSC
+Las Vegas,"Peoria, IL",LAS,PIA
+Las Vegas,"Phoenix / Mesa, AZ",LAS,AZA
+Las Vegas,"Provo, UT",LAS,PVU
+Las Vegas,"Rapid City, SD",LAS,RAP
+Las Vegas,"Rockford, IL",LAS,RFD
+Las Vegas,"Santa Maria, CA",LAS,SMX
+Las Vegas,"Shreveport, LA",LAS,SHV
+Las Vegas,"Sioux Falls, SD",LAS,FSD
+Las Vegas,"South Bend, IN",LAS,SBN
+Las Vegas,"Spokane, WA",LAS,GEG
+Las Vegas,"Springfield / Branson, MO",LAS,SGF
+Las Vegas,"Stockton, CA",LAS,SCK
+Las Vegas,"Tulsa, OK",LAS,TUL
+Las Vegas,"Wichita, KS",LAS,ICT
+Las Vegas,"Los Angeles, CA",LAS,LAX
+Las Vegas,"San Diego, CA",LAS,SAN
+Las Vegas,"San Antonio, TX",LAS,SAT
+Las Vegas,"Louisville, KY",LAS,SDF
+Los Angeles,"Bellingham, WA / Vancouver, BC",LAX,BLI
+Los Angeles,"Billings, MT",LAX,BIL
+Los Angeles,"Cedar Rapids, IA",LAX,CID
+Los Angeles,"Cincinnati, OH",LAX,CVG
+Los Angeles,"Des Moines, IA",LAX,DSM
+Los Angeles,"Grand Rapids, MI",LAX,GRR
+Los Angeles,"Indianapolis, IN",LAX,IND
+Los Angeles,"Kalispell, MT",LAX,FCA
+Los Angeles,"Laredo, TX",LAX,LRD
+Los Angeles,"Little Rock, AR",LAX,LIT
+Los Angeles,"McAllen, TX / Monterrey, MX",LAX,MFE
+Los Angeles,"Medford, OR",LAX,MFR
+Los Angeles,"Memphis, TN",LAX,MEM
+Los Angeles,"Northwest Arkansas, AR",LAX,XNA
+Los Angeles,"Omaha, NE",LAX,OMA
+Los Angeles,"Pasco (Tri-Cities), WA",LAX,PSC
+Los Angeles,"Rapid City, SD",LAX,RAP
+Los Angeles,"Rockford, IL",LAX,RFD
+Los Angeles,"Sioux Falls, SD",LAX,FSD
+Los Angeles,"Spokane, WA",LAX,GEG
+Los Angeles,"Springfield / Branson, MO",LAX,SGF
+Los Angeles,"Tulsa, OK",LAX,TUL
+Los Angeles,"Wichita, KS",LAX,ICT
+Los Angeles,"Bozeman, MT",LAX,BZN
+Los Angeles,"Fargo, ND",LAX,FAR
+Los Angeles,"Grand Junction, CO",LAX,GJT
+Los Angeles,"Las Vegas, NV",LAX,LAS
+Los Angeles,"Missoula, MT",LAX,MSO
+Melbourne,"Allentown (Lehigh Valley), PA",,ABE
+Melbourne,"Cincinnati, OH",,CVG
+Melbourne,"Pittsburgh, PA",,PIT
+Myrtle Beach,"Akron-Canton, OH",MYR,CAK
+Myrtle Beach,"Albany, NY",MYR,ALB
+Myrtle Beach,"Allentown (Lehigh Valley), PA",MYR,ABE
+Myrtle Beach,"Belleville, IL / St. Louis, MO",MYR,BLV
+Myrtle Beach,"Cincinnati, OH",MYR,CVG
+Myrtle Beach,"Clarksburg / Morgantown, WV",MYR,CKB
+Myrtle Beach,"Columbus (Rickenbacker), OH",MYR,LCK
+Myrtle Beach,"Fort Wayne, IN",MYR,FWA
+Myrtle Beach,"Grand Rapids, MI",MYR,GRR
+Myrtle Beach,"Hagerstown, MD",MYR,HGR
+Myrtle Beach,"Harrisburg, PA",MYR,MDT
+Myrtle Beach,"Huntington (Tri-State), WV",MYR,HTS
+Myrtle Beach,"Indianapolis, IN",MYR,IND
+Myrtle Beach,"Lexington, KY",MYR,LEX
+Myrtle Beach,"Louisville, KY",MYR,SDF
+Myrtle Beach,"Newburgh (Stewart), NY",MYR,SWF
+Myrtle Beach,"Niagara Falls / Buffalo, NY",MYR,IAG
+Myrtle Beach,"Pittsburgh, PA",MYR,PIT
+Myrtle Beach,"Plattsburgh, NY / Montreal, QC",MYR,PBG
+Myrtle Beach,"Syracuse, NY",MYR,SYR
+Myrtle Beach,"Nashville, TN",MYR,BNA
+Myrtle Beach,"Portsmouth, NH",MYR,PSM
+Myrtle Beach,"Knoxville, TN",MYR,TYS
+Nashville TN,"Akron-Canton, OH",BNA,CAK
+Nashville TN,"Albany, NY",BNA,ALB
+Nashville TN,"Allentown (Lehigh Valley), PA",BNA,ABE
+Nashville TN,"Appleton / Green Bay, WI",BNA,ATW
+Nashville TN,"Bozeman, MT",BNA,BZN
+Nashville TN,"Cedar Rapids, IA",BNA,CID
+Nashville TN,"Des Moines, IA",BNA,DSM
+Nashville TN,"Fargo, ND",BNA,FAR
+Nashville TN,"Flint, MI",BNA,FNT
+Nashville TN,"Fort Lauderdale / Miami, FL",BNA,FLL
+Nashville TN,"Fort Myers / Punta Gorda, FL",BNA,PGD
+Nashville TN,"Grand Rapids, MI",BNA,GRR
+Nashville TN,"Harrisburg, PA",BNA,MDT
+Nashville TN,"Jacksonville, FL",BNA,JAX
+Nashville TN,"Northwest Arkansas, AR",BNA,XNA
+Nashville TN,"Peoria, IL",BNA,PIA
+Nashville TN,"Pittsburgh, PA",BNA,PIT
+Nashville TN,"Provo, UT",BNA,PVU
+Nashville TN,"Richmond, VA",BNA,RIC
+Nashville TN,"Rockford, IL",BNA,RFD
+Nashville TN,"Sanford / Orlando, FL",BNA,SFB
+Nashville TN,"Sarasota / Bradenton, FL",BNA,SRQ
+Nashville TN,"Shreveport, LA",BNA,SHV
+Nashville TN,"Sioux Falls, SD",BNA,FSD
+Nashville TN,"Syracuse, NY",BNA,SYR
+Nashville TN,"Tampa / St. Pete, FL",BNA,PIE
+Nashville TN,Washington D.C. / Dulles,BNA,IAD
+Nashville TN,"Myrtle Beach, SC",BNA,MYR
+Nashville TN,"Savannah, GA / Hilton Head, SC",BNA,SAV
+Nashville TN,"Destin / Fort Walton Beach, FL",BNA,VPS
+"New  Orlean, LA","Cincinnati, OH",MSY,CVG
+"New  Orlean, LA","Pittsburgh, PA",MSY,PIT
+"New  Orlean, LA","Louisville, KY",MSY,SDF
+"New York City, NY / Newark, NJ","Appleton / Green Bay, WI",EWR,ATW
+"New York City, NY / Newark, NJ","Asheville, NC",EWR,AVL
+"New York City, NY / Newark, NJ","Cincinnati, OH",EWR,CVG
+"New York City, NY / Newark, NJ","Des Moines, IA",EWR,DSM
+"New York City, NY / Newark, NJ","Destin / Fort Walton Beach, FL",EWR,VPS
+"New York City, NY / Newark, NJ","Flint, MI",EWR,FNT
+"New York City, NY / Newark, NJ","Grand Rapids, MI",EWR,GRR
+"New York City, NY / Newark, NJ","Knoxville, TN",EWR,TYS
+"New York City, NY / Newark, NJ","Savannah, GA / Hilton Head, SC",MSY,SAV
+"Norfolk, VA","Boston (Logan), MA",ORF,BOS
+"Norfolk, VA","Cincinnati, OH",ORF,CVG
+"Norfolk, VA","Fort Lauderdale / Miami, FL",ORF,FLL
+"Norfolk, VA","Jacksonville, FL",ORF,JAX
+"Norfolk, VA","Sanford / Orlando, FL",ORF,SFB
+"Norfolk, VA","Tampa / St. Pete, FL",ORF,PIE
+"Norfolk, VA","Columbus (Rickenbacker), OH",ORF,LCK
+"Norfolk, VA","Pittsburgh, PA",ORF,PIT
+Oakland/San Francisco,"Bellingham, WA / Vancouver, BC",,BLI
+Oakland/San Francisco,"Idaho Falls, ID",,IDA
+Oakland/San Francisco,"Kalispell, MT",,FCA
+Oakland/San Francisco,"Missoula, MT",,MSO
+Orlando,"Allentown (Lehigh Valley), PA",MCO,ABE
+Orlando,"Asheville, NC",MCO,AVL
+Orlando,"Knoxville, TN",MCO,TYS
+Phoenix,"Appleton / Green Bay, WI",PHX,ATW
+Phoenix,"Bellingham, WA / Vancouver, BC",PHX,BLI
+Phoenix,"Billings, MT",PHX,BIL
+Phoenix,"Bismarck, ND",PHX,BIS
+Phoenix,"Boise, ID",PHX,BOI
+Phoenix,"Bozeman, MT",PHX,BZN
+Phoenix,"Cedar Rapids, IA",PHX,CID
+Phoenix,"Cincinnati, OH",PHX,CVG
+Phoenix,"Colorado Springs, CO",PHX,COS
+Phoenix,"Des Moines, IA",PHX,DSM
+Phoenix,"Eugene, OR",PHX,EUG
+Phoenix,"Fargo, ND",PHX,FAR
+Phoenix,"Flint, MI",PHX,FNT
+Phoenix,"Fort Wayne, IN",PHX,FWA
+Phoenix,"Grand Forks, ND",PHX,GFK
+Phoenix,"Grand Island, NE",PHX,GRI
+Phoenix,"Grand Rapids, MI",PHX,GRR
+Phoenix,"Great Falls, MT",PHX,GTF
+Phoenix,"Idaho Falls, ID",PHX,IDA
+Phoenix,"Kalispell, MT",PHX,FCA
+Phoenix,"Las Vegas, NV",PHX,LAS
+Phoenix,"Minneapolis-St. Paul, MN",PHX,MSP
+Phoenix,"Minot, ND",PHX,MOT
+Phoenix,"Missoula, MT",PHX,MSO
+Phoenix,"Moline (Quad Cities), IL",PHX,MLI
+Phoenix,"Northwest Arkansas, AR",PHX,XNA
+Phoenix,"Omaha, NE",PHX,OMA
+Phoenix,"Pasco (Tri-Cities), WA",PHX,PSC
+Phoenix,"Peoria, IL",PHX,PIA
+Phoenix,"Portland, OR",PHX,PDX
+Phoenix,"Provo, UT",PHX,PVU
+Phoenix,"Rapid City, SD",PHX,RAP
+Phoenix,"Rockford, IL",PHX,RFD
+Phoenix,"Sioux Falls, SD",PHX,FSD
+Phoenix,"South Bend, IN",PHX,SBN
+Phoenix,"Spokane, WA",PHX,GEG
+Phoenix,"Springfield / Branson, MO",PHX,SGF
+Phoenix,"St. Cloud, MN",PHX,STC
+Phoenix,"Toledo, OH / Detroit, MI",PHX,TOL
+Phoenix,"Traverse City, MI",PHX,TVC
+Phoenix,"Wichita, KS",PHX,ICT
+Phoenix,"Belleville, IL / St. Louis, MO",PHX,BLV
+Phoenix,"Memphis, TN",PHX,MEM
+Phoenix,"Medford, OR",PHX,MFR
+Phoenix,"Asheville, NC",PHX,AVL
+Phoenix,"Knoxville, TN",PHX,TYS
+Phoenix,"Pittsburgh, PA",PHX,PIT
+Phoenix,"Provo, UT",PHX,PVU
+Phoenix,"Stockton, CA",PHX,SCK
+Portland,"Appleton / Green Bay, WI",PDX,ATW
+Portland,"Cincinnati, OH",PDX,CVG
+Portland,"Des Moines, IA",PDX,DSM
+Portland,"Flint, MI",PDX,FNT
+Portland,"Fresno, CA",PDX,FAT
+Portland,"Grand Rapids, MI",PDX,GRR
+Portland,"Idaho Falls, ID",PDX,IDA
+Portland,"Indianapolis, IN",PDX,IND
+Portland,"Phoenix / Mesa, AZ",PDX,AZA
+Portland,"Provo, UT",PDX,PVU
+San Diego,"Bellingham, WA / Vancouver, BC",SAN,BLI
+San Diego,"Des Moines, IA",SAN,DSM
+San Diego,"Medford, OR",SAN,MFR
+San Diego,"Provo, UT",SAN,PVU
+San Diego,"Billings, MT",SAN,BIL
+San Diego,"El Paso, TX",SAN,ELP
+San Diego,"Eugene, OR",SAN,EUG
+San Diego,"Sioux Falls, SD",SAN,FSD
+San Diego,"Idaho Falls, ID",SAN,IDA
+San Diego,"Las Vegas, NV",SAN,LAS
+Sandford/Orlando,"Akron-Canton, OH",SFB,CAK
+Sandford/Orlando,"Albany, NY",SFB,ALB
+Sandford/Orlando,"Allentown (Lehigh Valley), PA",SFB,ABE
+Sandford/Orlando,"Appleton / Green Bay, WI",SFB,ATW
+Sandford/Orlando,"Asheville, NC",SFB,AVL
+Sandford/Orlando,"Austin, TX",SFB,AUS
+Sandford/Orlando,"Bangor, ME",SFB,BGR
+Sandford/Orlando,"Belleville, IL / St. Louis, MO",SFB,BLV
+Sandford/Orlando,"Bismarck, ND",SFB,BIS
+Sandford/Orlando,"Bloomington, IL",SFB,BMI
+Sandford/Orlando,"Cedar Rapids, IA",SFB,CID
+Sandford/Orlando,"Chattanooga, TN",SFB,CHA
+Sandford/Orlando,"Cincinnati, OH",SFB,CVG
+Sandford/Orlando,"Clarksburg / Morgantown, WV",SFB,CKB
+Sandford/Orlando,"Columbia, SC",SFB,CAE
+Sandford/Orlando,"Columbus (Rickenbacker), OH",SFB,LCK
+Sandford/Orlando,"Concord / Charlotte, NC",SFB,USA
+Sandford/Orlando,"Dayton, OH",SFB,DAY
+Sandford/Orlando,"Des Moines, IA",SFB,DSM
+Sandford/Orlando,"Elmira / Corning, NY",SFB,ELM
+Sandford/Orlando,"Evansville, IN",SFB,EVV
+Sandford/Orlando,"Fargo, ND",SFB,FAR
+Sandford/Orlando,"Flint, MI",SFB,FNT
+Sandford/Orlando,"Fort Wayne, IN",SFB,FWA
+Sandford/Orlando,"Grand Forks, ND",SFB,GFK
+Sandford/Orlando,"Grand Rapids, MI",SFB,GRR
+Sandford/Orlando,"Greensboro / Winston-Salem, NC",SFB,GSO
+Sandford/Orlando,"Greenville / Spartanburg, SC",SFB,GSP
+Sandford/Orlando,"Hagerstown, MD",SFB,HGR
+Sandford/Orlando,"Harrisburg, PA",SFB,MDT
+Sandford/Orlando,"Huntington (Tri-State), WV",SFB,HTS
+Sandford/Orlando,"Indianapolis, IN",SFB,IND
+Sandford/Orlando,"Key West, FL",SFB,EYW
+Sandford/Orlando,"Knoxville, TN",SFB,TYS
+Sandford/Orlando,"Lexington, KY",SFB,LEX
+Sandford/Orlando,"Little Rock, AR",SFB,LIT
+Sandford/Orlando,"Louisville, KY",SFB,SDF
+Sandford/Orlando,"McAllen, TX / Monterrey, MX",SFB,MFE
+Sandford/Orlando,"Memphis, TN",SFB,MEM
+Sandford/Orlando,"Minot, ND",SFB,MOT
+Sandford/Orlando,"Moline (Quad Cities), IL",SFB,MLI
+Sandford/Orlando,"Nashville, TN",SFB,BNA
+Sandford/Orlando,"Newburgh (Stewart), NY",SFB,SWF
+Sandford/Orlando,"Niagara Falls / Buffalo, NY",SFB,IAG
+Sandford/Orlando,"Norfolk, VA",SFB,ORF
+Sandford/Orlando,"Northwest Arkansas, AR",SFB,XNA
+Sandford/Orlando,"Oklahoma City, OK",SFB,OKC
+Sandford/Orlando,"Omaha, NE",SFB,OMA
+Sandford/Orlando,"Peoria, IL",SFB,PIA
+Sandford/Orlando,"Pittsburgh, PA",SFB,PIT
+Sandford/Orlando,"Plattsburgh, NY / Montreal, QC",SFB,PBG
+Sandford/Orlando,"Portsmouth, NH",SFB,PSM
+Sandford/Orlando,"Provo, UT",SFB,PVU
+Sandford/Orlando,"Rapid City, SD",SFB,RAP
+Sandford/Orlando,"Richmond, VA",SFB,RIC
+Sandford/Orlando,"Roanoke, VA",SFB,ROA
+Sandford/Orlando,"Rockford, IL",SFB,RFD
+Sandford/Orlando,"Shreveport, LA",SFB,SHV
+Sandford/Orlando,"Sioux Falls, SD",SFB,FSD
+Sandford/Orlando,"South Bend, IN",SFB,SBN
+Sandford/Orlando,"Springfield / Branson, MO",SFB,SGF
+Sandford/Orlando,"Syracuse, NY",SFB,SYR
+Sandford/Orlando,"Toledo, OH / Detroit, MI",SFB,TOL
+Sandford/Orlando,"Traverse City, MI",SFB,TVC
+Sandford/Orlando,"Tri-Cities (Bristol / Johnson City / Kingsport), TN",SFB,TRI
+Sandford/Orlando,"Tulsa, OK",SFB,TUL
+Sandford/Orlando,"Wichita, KS",SFB,ICT
+Sandford/Orlando,"El Paso, TX",SFB,ELP
+Sandford/Orlando,"Kansas City, MO",SFB,MCI
+Sandford/Orlando,"Rochester, NY",SFB,ROC
+Sandford/Orlando,"San Antonio, TX",SFB,SAT
+"Santa Ana / Orange County, CA","Boise, ID",SNA,BOI
+"Santa Ana / Orange County, CA","Colorado Springs, CO",SNA,COS
+"Santa Ana / Orange County, CA","Des Moines, IA",SNA,DSM
+"Santa Ana / Orange County, CA","Eugene, OR",SNA,EUG
+"Santa Ana / Orange County, CA","Idaho Falls, ID",SNA,IDA
+"Santa Ana / Orange County, CA","Medford, OR",SNA,MFR
+"Santa Ana / Orange County, CA","Missoula, MT",SNA,MSO
+"Santa Ana / Orange County, CA","Provo, UT",SNA,PVU
+"Santa Ana / Orange County, CA","Spokane, WA",SNA,GEG
+"Sarasota / Bradenton, FL","Akron-Canton, OH",SRQ,CAK
+"Sarasota / Bradenton, FL","Albany, NY",SRQ,ALB
+"Sarasota / Bradenton, FL","Allentown (Lehigh Valley), PA",SRQ,ABE
+"Sarasota / Bradenton, FL","Appleton / Green Bay, WI",SRQ,ATW
+"Sarasota / Bradenton, FL","Asheville, NC",SRQ,AVL
+"Sarasota / Bradenton, FL","Austin, TX",SRQ,AUS
+"Sarasota / Bradenton, FL","Belleville, IL / St. Louis, MO",SRQ,BLV
+"Sarasota / Bradenton, FL","Boston (Logan), MA",SRQ,BOS
+"Sarasota / Bradenton, FL","Cedar Rapids, IA",SRQ,CID
+"Sarasota / Bradenton, FL","Cincinnati, OH",SRQ,CVG
+"Sarasota / Bradenton, FL","Columbus (Rickenbacker), OH",SRQ,LCK
+"Sarasota / Bradenton, FL","Des Moines, IA",SRQ,DSM
+"Sarasota / Bradenton, FL","Elmira / Corning, NY",SRQ,ELM
+"Sarasota / Bradenton, FL","Flint, MI",SRQ,FNT
+"Sarasota / Bradenton, FL","Fort Wayne, IN",SRQ,FWA
+"Sarasota / Bradenton, FL","Grand Rapids, MI",SRQ,GRR
+"Sarasota / Bradenton, FL","Greenville / Spartanburg, SC",SRQ,GSP
+"Sarasota / Bradenton, FL","Harrisburg, PA",SRQ,MDT
+"Sarasota / Bradenton, FL","Indianapolis, IN",SRQ,IND
+"Sarasota / Bradenton, FL","Knoxville, TN",SRQ,TYS
+"Sarasota / Bradenton, FL","Lexington, KY",SRQ,LEX
+"Sarasota / Bradenton, FL","Louisville, KY",SRQ,SDF
+"Sarasota / Bradenton, FL","Minneapolis-St. Paul, MN",SRQ,MSP
+"Sarasota / Bradenton, FL","Moline (Quad Cities), IL",SRQ,MLI
+"Sarasota / Bradenton, FL","Nashville, TN",SRQ,BNA
+"Sarasota / Bradenton, FL","Omaha, NE",SRQ,OMA
+"Sarasota / Bradenton, FL","Peoria, IL",SRQ,PIA
+"Sarasota / Bradenton, FL","Pittsburgh, PA",SRQ,PIT
+"Sarasota / Bradenton, FL","Plattsburgh, NY / Montreal, QC",SRQ,PBG
+"Sarasota / Bradenton, FL","Portsmouth, NH",SRQ,PSM
+"Sarasota / Bradenton, FL","Roanoke, VA",SRQ,ROA
+"Sarasota / Bradenton, FL","Rockford, IL",SRQ,RFD
+"Sarasota / Bradenton, FL","South Bend, IN",SRQ,SBN
+"Sarasota / Bradenton, FL","Syracuse, NY",SRQ,SYR
+"Sarasota / Bradenton, FL",Washington D.C. / Dulles,SRQ,IAD
+Tampa,"Akron-Canton, OH",TPA,CAK
+Tampa,"Albany, NY",TPA,ALB
+Tampa,"Allentown (Lehigh Valley), PA",TPA,ABE
+Tampa,"Appleton / Green Bay, WI",TPA,ATW
+Tampa,"Asheville, NC",TPA,AVL
+Tampa,"Bangor, ME",TPA,BGR
+Tampa,"Belleville, IL / St. Louis, MO",TPA,BLV
+Tampa,"Bismarck, ND",TPA,BIS
+Tampa,"Bloomington, IL",TPA,BMI
+Tampa,"Cedar Rapids, IA",TPA,CID
+Tampa,"Chattanooga, TN",TPA,CHA
+Tampa,"Cincinnati, OH",TPA,CVG
+Tampa,"Clarksburg / Morgantown, WV",TPA,CKB
+Tampa,"Colorado Springs, CO",TPA,COS
+Tampa,"Columbus (Rickenbacker), OH",TPA,LCK
+Tampa,"Concord / Charlotte, NC",TPA,USA
+Tampa,"Dayton, OH",TPA,DAY
+Tampa,"Des Moines, IA",TPA,DSM
+Tampa,"Elmira / Corning, NY",TPA,ELM
+Tampa,"Evansville, IN",TPA,EVV
+Tampa,"Fargo, ND",TPA,FAR
+Tampa,"Flint, MI",TPA,FNT
+Tampa,"Fort Wayne, IN",TPA,FWA
+Tampa,"Grand Rapids, MI",TPA,GRR
+Tampa,"Greensboro / Winston-Salem, NC",TPA,GSO
+Tampa,"Greenville / Spartanburg, SC",TPA,GSP
+Tampa,"Hagerstown, MD",TPA,HGR
+Tampa,"Harrisburg, PA",TPA,MDT
+Tampa,"Huntington (Tri-State), WV",TPA,HTS
+Tampa,"Indianapolis, IN",TPA,IND
+Tampa,"Kansas City, MO",TPA,MCI
+Tampa,"Key West, FL",TPA,EYW
+Tampa,"Knoxville, TN",TPA,TYS
+Tampa,"Lexington, KY",TPA,LEX
+Tampa,"Little Rock, AR",TPA,LIT
+Tampa,"Louisville, KY",TPA,SDF
+Tampa,"McAllen, TX / Monterrey, MX",TPA,MFE
+Tampa,"Memphis, TN",TPA,MEM
+Tampa,"Moline (Quad Cities), IL",TPA,MLI
+Tampa,"Nashville, TN",TPA,BNA
+Tampa,"Newburgh (Stewart), NY",TPA,SWF
+Tampa,"Niagara Falls / Buffalo, NY",TPA,IAG
+Tampa,"Norfolk, VA",TPA,ORF
+Tampa,"Northwest Arkansas, AR",TPA,XNA
+Tampa,"Omaha, NE",TPA,OMA
+Tampa,"Peoria, IL",TPA,PIA
+Tampa,"Pittsburgh, PA",TPA,PIT
+Tampa,"Plattsburgh, NY / Montreal, QC",TPA,PBG
+Tampa,"Portsmouth, NH",TPA,PSM
+Tampa,"Richmond, VA",TPA,RIC
+Tampa,"Roanoke, VA",TPA,ROA
+Tampa,"Rockford, IL",TPA,RFD
+Tampa,"Savannah, GA / Hilton Head, SC",TPA,SAV
+Tampa,"Sioux Falls, SD",TPA,FSD
+Tampa,"South Bend, IN",TPA,SBN
+Tampa,"Springfield / Branson, MO",TPA,SGF
+Tampa,"Syracuse, NY",TPA,SYR
+Tampa,"Toledo, OH / Detroit, MI",TPA,TOL
+Tampa,"Traverse City, MI",TPA,TVC
+Tampa,"Tri-Cities (Bristol / Johnson City / Kingsport), TN",TPA,TRI
+Tampa,"Tulsa, OK",TPA,TUL
+Tampa,"Wichita, KS",TPA,ICT
+Washington D.C.,"Asheville, NC",IAD,AVL
+Washington D.C.,"Destin / Fort Walton Beach, FL",IAD,VPS
+Washington D.C.,"Knoxville, TN",IAD,TYS
+West Palm Beach,"Asheville, NC",PBI,AVL
+West Palm Beach,"Cincinnati, OH",PBI,CVG
+West Palm Beach,"Grand Rapids, MI",PBI,GRR
+West Palm Beach,"Indianapolis, IN",PBI,IND
+West Palm Beach,"Pittsburgh, PA",PBI,PIT
+West Palm Beach,"Knoxville, TN",PBI,TYS
+West Palm Beach,"Concord / Charlotte, NC",PBI,USA
