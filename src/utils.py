@@ -9,5 +9,5 @@ def extract_coordinates(geocoded_city):
   return match.group(1) if match else np.nan # Return only the coordinates; if the pattern is not found, return NaN
 
 def cost_prediction(route_df, year):
-  costs = route_df["nsmiles"] * 0.17507 * np.power(1.05, year-2019)
+  costs = route_df["distance"] * 0.17507 * np.power(1.05, year-2019)
   return costs
