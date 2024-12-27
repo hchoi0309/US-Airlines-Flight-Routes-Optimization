@@ -5,5 +5,5 @@ In this model, companies are expected to provide information about their operati
 
 As a result, the final optimization model resulted in an 80% increase in quarterly profit compared to the reported values of a sample airline company for test purposes. This proves how effective the project's outcome is in suggesting a new optimal resource allocation and sales strategy for airline companies. As this study is yet limited to flight routes within the States, further research in the future should expand the scope of this model to the global market and investigate any new insights that are yet undiscovered.
 ## References
-[1]https://www.kaggle.com/datasets/amitzala/us-airline-flight-routes-and-fares?select=US+Airline+Flight+Routes+and+Fares.csv
+[1]https://www.kaggle.com/datasets/amitzala/us-airline-flight-routes-and-fares?select=US+Airline+Flight+Routes+and+Fares.csv </br>
 [2]https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=Original+MIT+data
